@@ -13,17 +13,13 @@ I.e. Client-side or Preparer/SP-side.
 * Capacity planning
 * Scheduling and time estimation
 
-# Case Study
+## Designs.
 
-## Design: Managed onboarding by SP. 
+### Design option: Managed online onboarding by SP. 
 
 High-level architecture diagram:
 
 ![Overview](./overview-diagram.png)
-
-![an image](https://www.digitalocean.com/_next/static/media/intro-to-cloud.d49bc5f7.jpeg)
-
-## Capacity Plan.
 
 # Runbooks.
 
@@ -49,3 +45,28 @@ High-level architecture diagram:
 ## Retrieval Runbook.
 
 > TODO.
+
+
+# Case Study
+
+
+## Data Preparation and Dealmaking Approach
+
+> narrative.
+
+
+## Environment overview
+
+* Diagram (sensitive data removed)
+* Sizing
+* Environment parameters, any specific tuning.
+
+## Test Results
+
+* Throughput, Performance, System utilization
+
+* Test 1
+
+* Test 2
+
+* Test 3
